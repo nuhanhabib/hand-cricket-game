@@ -43,7 +43,7 @@ export function showMenu(): void {
         <button class="card-btn" data-act="stats"><span>🏆</span>Stats</button>
         <button class="card-btn" data-act="settings"><span>⚙️</span>Settings</button>
       </nav>
-      <p class="tagline">"Odd or Even?" — every school recess, ever.</p>
+      <p class="tagline">A last-bench classic, revived by <b>Nuhan Habib</b></p>
     </main>`),
   );
 
